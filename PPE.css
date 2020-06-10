@@ -1,0 +1,40 @@
+body{
+    background: url(https://stores.engvle.com/sites/default/files/White-Background-9B1-min-min_0.jpg);
+    background-color: cornflowerblue;
+}
+h1{
+    text-align: center;
+    font-family: 'Balsamiq Sans', cursive;
+    font-size: xx-large;
+    color: black;
+}
+#ppe1{
+    padding-top: ;
+}
+#header{
+    background: url("ppe2.jpg") center center/cover no-repeat;
+
+}
+.jumbotron {
+    padding-top: 20%;
+    padding-bottom: 20%;
+  }
+  .navbar-brand{
+      font-size: 2rem;
+      font-weight: 100;
+  }
+  .text-center{
+      font-family: "Nunito",sans-serif;
+      font-weight: 100;
+      margin: 20px 0px;
+  }
+  .row{
+      margin: 20px 0px;
+  }
+.Submit{
+    background-color: cornflowerblue;
+    margin: 0px 20px;
+}
+#email{
+    margin: 0px 15px;
+}
